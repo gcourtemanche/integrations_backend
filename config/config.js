@@ -13,7 +13,7 @@ config.database = {
   host     : 'IP_ADDRESS',
   user     : 'USER',
   password : 'PASSWORD',
-  database : 'integ61'
+  database : 'integ62'
 }
 
 module.exports = config;
